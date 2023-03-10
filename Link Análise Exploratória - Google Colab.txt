@@ -1,0 +1,3 @@
+##### Link para a Análise Exploratória
+
+https://colab.research.google.com/drive/1KbtAXtcBMWlo7mueItMGBbv1PYaBzb3t?usp=sharing
